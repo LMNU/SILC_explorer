@@ -1,8 +1,6 @@
 # SILC_explorer
 
-- **main.py** = python script containing the code for bokeh server
-  
-  To run:
+- **main.py** = python script containing the code for bokeh server. To run:
   - in terminal / command line go to directory above SILC_explorer
   - type "bokeh serve --show SILC_explorer"
   
