@@ -12,4 +12,6 @@ main.ipynb = same as above, but in notebook to explore
   
 description.html = html file used by main.py to generate final webpage
 
-EXCLUDED 
+.gitignore = file that includes names of files/directories to ignore
+  => includes "data/" directory containing SILC data
+  => in local folder: save SILC data in folder "data" in this directory
